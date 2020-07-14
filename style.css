@@ -1,0 +1,18 @@
+#someIDoverhere {
+  text-align: center;
+  color: rgb(120, 191, 212);
+  background-color: rgb(31, 124, 12);
+  text-decoration: underline;
+}
+
+#Info {
+  border: 3px solid rgb(26, 84, 134);
+  background-color: rgb(154, 224, 183);
+  color: fuchsia
+} 
+
+#List {
+  border: 3px solid gold;
+  background-color: rgb(171, 212, 212);
+  color: rgb(230, 83, 30)
+}
